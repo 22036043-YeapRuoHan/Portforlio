@@ -1,0 +1,3 @@
+1,c,pass12345,Customer,don@gmail.com,homee,12345678
+2,cs,pass12344,CustomerSP,donny@gmail.com,ilike,87654321
+3,a,pass12343,Administrator,donyamete@gmail.com,turtles,00006969
